@@ -2,7 +2,6 @@
 Bishop Ross
 CIS247C
 ATM application
-11/2/2019
 */
 
 
